@@ -1,5 +1,10 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
+## Name : Iniyasri.S
+## Register number : 212223230081
+## AIM:
+```
+To perform a study on sliding window protocol.
+```
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
